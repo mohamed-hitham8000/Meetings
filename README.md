@@ -212,3 +212,40 @@ joinButton.addEventListener('click', () => {
 
 
 
+
+
+
+:root {
+  --primary-color: blue;
+  --accent-color: orange;
+}
+
+h1 {
+  color: var(--primary-color);
+}
+
+button {
+  background-color: var(--accent-color);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
